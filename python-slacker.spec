@@ -7,7 +7,7 @@
 Summary:	Slack API client
 Name:		python-%{module}
 Version:	0.9.2
-Release:	5
+Release:	6
 License:	Apache v2.0
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/s/slacker/%{module}-%{version}.tar.gz
